@@ -9,3 +9,4 @@
 #throw it onto rpi
 #which lang
 #
+#look into https://github.com/kristopolous/tumblr-scraper
